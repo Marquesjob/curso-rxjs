@@ -1,0 +1,23 @@
+{
+  "name": "curso-rxjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marquesjob/curso-rxjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marquesjob/curso-rxjs/issues"
+  },
+  "homepage": "https://github.com/Marquesjob/curso-rxjs#readme",
+  "dependencies": {
+    "rxjs": "^7.5.6"
+  }
+}
